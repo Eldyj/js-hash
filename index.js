@@ -40,7 +40,3 @@ class Hash {
 		hash.length = hash.indexes.length;
 	}
 }
-
-let translates = new Hash('ru', new Hash('welcome', 'Добро пожаловать!'), 'eng', new Hash('welcome', 'Welcome!'));
-
-console.log(translates);
