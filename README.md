@@ -20,4 +20,7 @@ foo.indexOf(43); //return "boom"
 
 //set value to exist index
 foo.set("bar",19);
+
+//get hash length
+foo.length() //return 3, cuz now i have 3 indexes and 3 values
 ```
