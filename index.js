@@ -1,4 +1,4 @@
-class Hash {
+export class Hash {
 	constructor(...hashes){
 		let hash = this;
 		hash.indexes = [];
